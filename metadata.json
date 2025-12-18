@@ -1,0 +1,5 @@
+{
+  "name": "BrandChart Gen",
+  "description": "A modern, aesthetic chart generator creating on-brand visualizations from CSV data.",
+  "requestFramePermissions": []
+}
